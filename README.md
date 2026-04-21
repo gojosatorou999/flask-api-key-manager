@@ -1,6 +1,6 @@
 # KeyGuard: Flask API Key Manager
 
-KeyGuard is a lightweight, secure, and elegant API key management system built with Flask and SQLite. It provides a beautiful interface to generate, track, and revoke API keys, along with a simple REST endpoint for validation.
+KeyGuard is a lightweight, secure, and elegant API key management system built with Flask and SQLite.It provides a beautiful interface to generate, track, and revoke API keys, along with a simple REST endpoint for validation.
 
 ## 🚀 Features
 
