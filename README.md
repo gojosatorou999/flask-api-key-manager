@@ -36,7 +36,7 @@ KeyGuard is a lightweight, secure, and elegant API key management system built w
    ```bash
    python app.py
    ```
-   The dashboard will be available at `http://127.0.0.1:5000`.
+   The dashboard will be available at 
 
 ## 🔌 API Reference
 
