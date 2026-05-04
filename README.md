@@ -13,7 +13,7 @@ KeyGuard is a lightweight, secure, and elegant API key management system built w
 - **SQLite Backend**: Lightweight and portable data storage.
 
 ## 🛠️ Tech Stack 
-
+ 
 - **Backend**: Flask, Flask-SQLAlchemy (SQLite)
 - **Frontend**: Vanilla HTML/CSS (Premium Glassmorphism Design)
 - **Icons**: Lucide-inspired SVG icons
