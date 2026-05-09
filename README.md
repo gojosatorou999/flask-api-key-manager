@@ -11,7 +11,7 @@ KeyGuard is a lightweight, secure, and elegant API key management system built w
 - **Dashboard**: Premium dark-mode UI for managing active keys.
 - **Revocation**: Instantly deactivate keys with a single click.
 - **SQLite Backend**: Lightweight and portable data storage.
-
+  
 ## 🛠️ Tech Stack
  
 - **Backend**: Flask, Flask-SQLAlchemy (SQLite)
