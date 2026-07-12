@@ -5,7 +5,7 @@ KeyGuard is a lightweight, secure, and elegant API key management system built w
 </div>
      
 ## 🚀 Features            
-  
+    
 - **Key Generation**: Create unique UUID-based API keys with custom labels.
 - **Key Validation**: Simple GET endpoint to verify key validity.
 - **Dashboard**: Premium dark-mode UI for managing active keys.
